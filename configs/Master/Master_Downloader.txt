@@ -1,9 +1,13 @@
 // Example Config
-materials/models/parachute/parachute_ark.vmt
-materials/models/parachute/parachute_ark.vtf
-materials/models/parachute/parachute_ark_backpack.vmt
-materials/models/parachute/parachute_ark_backpack.vtf
-materials/models/parachute/parachute_ark_normal.vtf
-models/parachute/parachute_ark.dx90.vtx
-models/parachute/parachute_ark.mdl
-models/parachute/parachute_ark.vvd
+//materials/models/parachute/parachute_ark.vmt
+//materials/models/parachute/parachute_ark.vtf
+//materials/models/parachute/parachute_ark_backpack.vmt
+//materials/models/parachute/parachute_ark_backpack.vtf
+//materials/models/parachute/parachute_ark_normal.vtf
+//models/parachute/parachute_ark.dx90.vtx
+//models/parachute/parachute_ark.mdl
+//models/parachute/parachute_ark.vvd
+materials/overlays/storm.vmt
+materials/overlays/storm.vtf
+materials/overlays/test.vmt
+materials/overlays/test.vtf
